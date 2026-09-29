@@ -8,7 +8,7 @@
 > 
 > L'autore non si assume alcuna responsabilità per l'uso improprio, illecito o dannoso delle informazioni, del codice o delle risorse rese disponibili. Qualsiasi utilizzo da parte di terzi avviene sotto la loro esclusiva responsabilità.
 >
-> All books were downloaded from Z-Library. 
+> All books were downloaded from [Z-Library](https://z-library.biz/).  
 
 ---
 
