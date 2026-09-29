@@ -18,10 +18,10 @@
 * Web Audio API **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/Web_Audio_API.pdf)
 
 #### 📁 Tecnologie Emergenti per la Trasmissione dei Dati e delle Informazioni
-* Reti di Calcolatori: [View/Download](https://link-download.com)
-* Reti di Calcolatori e Internet: un Approccio Top Down **[ENGLISH]**: [View/Download](https://link-download.com)
-* Computer Networks and Internet **[ENGLISH]**: [View/Download](https://link-download.com)
-* Reti e Tecniche per la Comunicazione Multimediale **[ENGLISH]**: [View/Download](https://link-download.com)
+* Reti di Calcolatori: [None](https://link-download.com)
+* Reti di Calcolatori e Internet: un Approccio Top Down : [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori_e_internet.pdf)
+* Computer Networks and Internet : [None](https://link-download.com)
+* Reti e Tecniche per la Comunicazione Multimediale : [None](https://link-download.com)
 
 
 ---
