@@ -9,19 +9,19 @@
 ### 📂 Primo Periodo
 
 #### 📁 Italiano
-* Mia Lingua Italiana. Per i 150 anni dell'unità nazionale : [Download](https://denisdev.altervista.org/Mia_lingua_italiana.pdf)
+* Mia Lingua Italiana. Per i 150 anni dell'unità nazionale : [View/Download](https://denisdev.altervista.org/Mia_lingua_italiana.pdf)
 
 #### 📁 Laboratorio di Programmazione Web
 * Programmazione Web Lato Server: [None](https://link-download.com)
-* HTML e CSS. Progettare e costruire siti web [ENGLISH]: [Download](https://denisdev.altervista.org/HTML_and_CSS.pdf)
-* Javascript & JQuery. Sviluppare interfacce web interattive [ENGLISH]: [Download](https://denisdev.altervista.org/JavaScript_and_JQuery.pdf)
-* Web Audio API [ENGLISH]: [Download](https://denisdev.altervista.org/Web_Audio_API.pdf)
+* HTML e CSS. Progettare e costruire siti web **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/HTML_and_CSS.pdf)
+* Javascript & JQuery. Sviluppare interfacce web interattive **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/JavaScript_and_JQuery.pdf)
+* Web Audio API **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/Web_Audio_API.pdf)
 
 #### 📁 Tecnologie Emergenti per la Trasmissione dei Dati e delle Informazioni
-* Reti di Calcolatori: [Download](https://link-download.com)
-* Reti di Calcolatori e Internet: un Approccio Top Down [ENGLISH]: [Download](https://link-download.com)
-* Computer Networks and Internet [ENGLISH]: [Download](https://link-download.com)
-* Reti e Tecniche per la Comunicazione Multimediale [ENGLISH]: [Download](https://link-download.com)
+* Reti di Calcolatori: [View/Download](https://link-download.com)
+* Reti di Calcolatori e Internet: un Approccio Top Down **[ENGLISH]**: [View/Download](https://link-download.com)
+* Computer Networks and Internet **[ENGLISH]**: [View/Download](https://link-download.com)
+* Reti e Tecniche per la Comunicazione Multimediale **[ENGLISH]**: [View/Download](https://link-download.com)
 
 
 ---
