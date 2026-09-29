@@ -8,7 +8,7 @@
 > 
 > L'autore non si assume alcuna responsabilità per l'uso improprio, illecito o dannoso delle informazioni, del codice o delle risorse rese disponibili. Qualsiasi utilizzo da parte di terzi avviene sotto la loro esclusiva responsabilità.
 >
-> All the books were downloaded from Z-Library. 
+> All books were downloaded from Z-Library. 
 
 ---
 
@@ -23,7 +23,7 @@
 * Manuale di base di linguistica e grammatica italiana, Bologna, il Mulino, 2021 : [Vuoto](https://www.youtube.com/shorts/2B8FtkZyJNQ)
 
 ### 📁 Laboratorio di Programmazione Web
-* Programmazione Web Lato Server, 2a edizione. Milano, Apogeo, 2010 : [Vuoto](https://www.youtube.com/shorts/2B8FtkZyJNQ)
+* Programmazione Web Lato Server, 2a edizione. Milano, Apogeo, 2010 : [AMAZON](https://www.amazon.it/Programmazione-web-server-Vincenzo-Della/dp/8838786933)
 * HTML e CSS. Progettare e costruire siti web. Apogeo, 2017 **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/HTML_and_CSS.pdf) → Edizione 2011 
 * JavaScript & JQuery. Sviluppare interfacce web interattive, Apogeo, 2017 **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/JavaScript_and_JQuery.pdf) → Edizione 2014 
 * Web Audio API. O'Reilly, 2013 **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/Web_Audio_API.pdf) → Prezzo di vendita: 9.83€ [AMAZON](https://www.amazon.it/Web-Audio-API-Advanced-Interactive-ebook/dp/B00BSG68V0)
