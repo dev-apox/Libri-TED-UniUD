@@ -7,6 +7,8 @@
 > Il materiale contenuto in questo repository è fornito **esclusivamente a scopo didattico e informativo**.
 > 
 > L'autore non si assume alcuna responsabilità per l'uso improprio, illecito o dannoso delle informazioni, del codice o delle risorse rese disponibili. Qualsiasi utilizzo da parte di terzi avviene sotto la loro esclusiva responsabilità.
+>
+> All the books were downloaded from Z-Library. 
 
 ---
 
