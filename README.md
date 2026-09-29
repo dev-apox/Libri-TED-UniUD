@@ -27,7 +27,7 @@
 * Web Audio API. O'Reilly, 2013 **[ENGLISH]**: [View/Download](https://denisdev.altervista.org/Web_Audio_API.pdf) → Prezzo di vendita: 9.83€ [AMAZON](https://www.amazon.it/Web-Audio-API-Advanced-Interactive-ebook/dp/B00BSG68V0)
 
 ### 📁 Tecnologie Emergenti per la Trasmissione dei Dati e delle Informazioni
-* Reti di calcolatori. Ediz. Mylab, (Sesta Edizione), Pearson, 2023: [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori.pdf) → Quinta Edizione
+* Reti di calcolatori. Ediz. Mylab, (Sesta Edizione), Pearson, 2023: [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori.pdf) → Quinta Edizione 2011
 * Reti di Calcolatori e Internet: un Approccio Top Down, Prentice Hall, 2022 : [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori_e_internet.pdf) → Prezzo di vendita: 48.85€ [AMAZON](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891916005)
 * Computer Networks and Internet, (Sesta Edizione), Prentice Hall, 2018 : [None](https://www.youtube.com/shorts/2B8FtkZyJNQ)
 * Reti e Tecniche per la Comunicazione Multimediale, McGraw-Hill Create, 2015 : [Vuoto](https://www.youtube.com/shorts/2B8FtkZyJNQ)
