@@ -2,6 +2,14 @@
 
 ![Logo UNIUD](assets/logo_uniUD.png) 
 
+> **⚠️ Disclaimer**
+> 
+> Il materiale contenuto in questo repository è fornito **esclusivamente a scopo didattico e informativo**.
+> 
+> L'autore non si assume alcuna responsabilità per l'uso improprio, illecito o dannoso delle informazioni, del codice o delle risorse rese disponibili. Qualsiasi utilizzo da parte di terzi avviene sotto la loro esclusiva responsabilità.
+
+---
+
 ## Secondo Anno - Digital Imaging [2026/2027]
 
 ---
@@ -23,7 +31,6 @@
 * Reti di Calcolatori e Internet: un Approccio Top Down, Prentice Hall, 2022 : [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori_e_internet.pdf) → Prezzo di vendita: 48.85€ [AMAZON](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891916005)
 * Computer Networks and Internet, (Sesta Edizione), Prentice Hall, 2018 : [None](https://www.youtube.com/shorts/2B8FtkZyJNQ)
 * Reti e Tecniche per la Comunicazione Multimediale, McGraw-Hill Create, 2015 : [Vuoto](https://www.youtube.com/shorts/2B8FtkZyJNQ)
-
 
 ---
 
