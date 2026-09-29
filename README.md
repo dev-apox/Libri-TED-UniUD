@@ -20,7 +20,7 @@
 
 ### 📁 Italiano
 * Mia lingua italiana. Per i 150 anni dell’unità nazionale, Torino, Einaudi, 2011 : [View/Download](https://denisdev.altervista.org/Mia_lingua_italiana.pdf) → Prezzo di vendita: 4.99€ [AMAZON](https://www.amazon.it/Mia-lingua-italiana-dellunit%C3%A0-nazionale-ebook/dp/B0931JHTR5)
-* Manuale di base di linguistica e grammatica italiana, Bologna, il Mulino, 2021 : [Vuoto](https://www.youtube.com/shorts/2B8FtkZyJNQ)
+* Manuale di base di linguistica e grammatica italiana, Bologna, il Mulino, 2021 : [None](assets/not_available.jpg)
 
 ### 📁 Laboratorio di Programmazione Web
 * Programmazione Web Lato Server, 2a edizione. Milano, Apogeo, 2010 : [AMAZON](https://www.amazon.it/Programmazione-web-server-Vincenzo-Della/dp/8838786933)
