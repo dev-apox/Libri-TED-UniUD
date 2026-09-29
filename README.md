@@ -1,6 +1,6 @@
 # Libri TED
 
-![Logo UNIUD](https://cird.uniud.it/wp-content/uploads/2023/07/uniud_white-1024x433.png) 
+![Logo UNIUD](assets/logo_uniUD.png) 
 
 ## Secondo Anno - Digital Imaging
 
