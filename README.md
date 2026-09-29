@@ -3,7 +3,7 @@
 ![Logo UNIUD](assets/logo_uniUD.png) 
 
 ## Secondo Anno - Digital Imaging
-
+### Premi **View/Download** per visualizzare o scaricare il libro!
 ---
 
 ### 📂 Primo Periodo
