@@ -2,7 +2,7 @@
 
 ![Logo UNIUD](assets/logo_uniUD.png) 
 
-## Secondo Anno - Digital Imaging
+## Secondo Anno - Digital Imaging [2026/2027]
 
 ---
 
