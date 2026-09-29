@@ -1,6 +1,6 @@
 # Libri TED
 
-![Logo UNIUD](https://www.uniud.it/logo.png) <!-- Sostituisci questo link con il link effettivo del logo UNIUD -->
+![Logo UNIUD](https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/sistema-qualita/allegati-ed-immagini/logo-uniud/download) 
 
 ## Secondo Anno - Digital Imaging
 
