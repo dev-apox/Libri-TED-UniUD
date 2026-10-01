@@ -13,9 +13,7 @@
 ---
 
 ## Secondo Anno - Digital Imaging [2026/2027]
-
 ---
-
 ## 📂 Primo Periodo
 
 ### 📁 Italiano
