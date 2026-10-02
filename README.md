@@ -64,4 +64,4 @@
 
 ## 📂 Secondo Periodo
 
-*(Sezione in aggiornamento)*
+*(Sezione in arrivo)*
