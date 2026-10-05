@@ -57,8 +57,6 @@
 #### 📚 Libri da reperire (Solo Amazon)
 * **Computer Networks and Internet**, (Sesta Edizione), Prentice Hall, 2018
   * [AMAZON](https://www.amazon.it/Computer-Networks-Internets-Douglas-Comer/dp/935286915X) *(Prezzo: 30.60€)*
-* **Reti e Tecniche per la Comunicazione Multimediale**, McGraw-Hill Create, 2015
-  * [AMAZON](https://www.amazon.it/Reti-tecniche-comunicazione-multimediale/dp/1121988229) *(Prezzo: 15.99€)*
 
 ---
 
