@@ -52,7 +52,7 @@
 * **Reti di calcolatori.** Ediz. Mylab, (Sesta Edizione), Pearson, 2023
   * [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori.pdf) *(Quinta Edizione 2011)*
 * **Reti di Calcolatori e Internet: un Approccio Top Down**, Prentice Hall, 2022
-  * [View/Download](https://denisdev.altervista.org/Reti_di_calcolatori_e_internet.pdf) | [AMAZON](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891916005) *(Prezzo: 48.85€)*
+  * [View/Download](http://denisdev.altervista.org/Reti_di_calcolatori_e_Internet.pdf) | [AMAZON](https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891916005) *(Prezzo: 48.85€)*
 
 #### 📚 Libri da reperire (Solo Amazon)
 * **Computer Networks and Internet**, (Sesta Edizione), Prentice Hall, 2018
